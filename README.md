@@ -1,4 +1,4 @@
-# Live-Expression_Recognition
+# Live-Expression-Recognition
 
 Created a Convolutional Neural Network from scratch and used live viideo to have it tell me my emotion
 
