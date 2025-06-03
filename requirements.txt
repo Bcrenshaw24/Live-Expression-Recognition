@@ -1,0 +1,6 @@
+torch 
+torchvision
+os
+PIL
+shutil
+cv2 
